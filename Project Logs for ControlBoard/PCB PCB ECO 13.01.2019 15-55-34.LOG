@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+12V Pin=C34-2
+Removed Pin From Net: NetName=+12V Pin=C35-2
+Removed Pin From Net: NetName=+12V Pin=C50-2
+Removed Pin From Net: NetName=+12V Pin=J2-9
+Change component parameters: Designator = "R20"; Footprint = "R_0805"; UniqueID = "\LKPUDSCI\XFKMIBDS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "R_0805"; UniqueID = "\LKPUDSCI\PTQSMFDA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23"; Footprint = "R_0805"; UniqueID = "\LKPUDSCI\EVOQFHAW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C34-2
+Added Pin To Net: NetName=+5V Pin=C35-2
+Added Pin To Net: NetName=+5V Pin=C50-2
+Added Pin To Net: NetName=+5V Pin=J2-9
