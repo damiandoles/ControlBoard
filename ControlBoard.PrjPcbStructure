@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=boxer_main.SchDoc
+Record=SheetSymbol|SourceDocument=boxer_main.SchDoc|Designator=Differential I2C|SchDesignator=Differential I2C|FileName=boxer_I2C_diff.SchDoc|SymbolType=Normal|RawFileName=boxer_I2C_diff.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=boxer_main.SchDoc|Designator=Irrigation|SchDesignator=Irrigation|FileName=boxer_irrigation.SchDoc|SymbolType=Normal|RawFileName=boxer_irrigation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=boxer_main.SchDoc|Designator=Power and supply|SchDesignator=Power and supply|FileName=boxer_supply.SchDoc|SymbolType=Normal|RawFileName=boxer_supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=boxer_main.SchDoc|Designator=PH1|SchDesignator=Repeat(PH, 1, 2)|FileName=boxer_pH.SchDoc|SymbolType=Normal|RawFileName=boxer_pH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

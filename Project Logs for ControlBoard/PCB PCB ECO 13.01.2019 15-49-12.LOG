@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=R18 Old Footprint=R_0805 New Footprint=R_1206
-Change component parameters: Designator = "R17"; Footprint = "R_0805"; UniqueID = "\LKPUDSCI\QPHSIJDD"
-Change component parameters. Clean all parameters for all variants
-Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
-Change component parameters: Designator = "R18"; Footprint = "R_1206"; UniqueID = "\LKPUDSCI\YLLSLIKB"
-Change component parameters. Clean all parameters for all variants
-Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
-Change Net Name : Old Net Name=NetC30_2 New Net Name=SOIL_MOIST_IN
