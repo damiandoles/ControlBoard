@@ -319,54 +319,6 @@ Variation1=Designator=R5|UniqueId=\AOGVIEUV\BFVODNRX|Kind=1|AlternatePart=
 Variation2=Designator=R55|UniqueId=\LKPUDSCI\ARWIYRTS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ControlBoard\PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for ControlBoard\PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for ControlBoard\PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ControlBoard\PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for ControlBoard\PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for ControlBoard\PCB.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ControlBoard\PCB.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for ControlBoard\PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for ControlBoard\PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for ControlBoard\PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for ControlBoard\PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for ControlBoard\PCB.RUL
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Revision
 Value=v3.0
