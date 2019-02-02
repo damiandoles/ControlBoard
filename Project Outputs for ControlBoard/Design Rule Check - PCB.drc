@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : C:\Procki projekty\PCB_Workspace\sterownik_boxer\sterownik_boxer_v3\ControlBoard\PCB.PcbDoc
+Date     : 02.02.2019
+Time     : 17:02:54
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=5mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.5mm) (Conductor Width=0.25mm) (Air Gap=0.25mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3.81mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.051mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Length Constraint (Min=0mm) (Max=80mm) (InNet('I2C_SDA'))
+Rule Violations :0
+
+Processing Rule : Room Irrigation (Bounding Region = (356.895mm, 352.882mm, 407.594mm, 465.811mm) (InComponentClass('Irrigation'))
+Rule Violations :0
+
+Processing Rule : Room Power and supply (Bounding Region = (366.42mm, 356.895mm, 430.733mm, 437.49mm) (InComponentClass('Power and supply'))
+Rule Violations :0
+
+Processing Rule : Room PHA (Bounding Region = (335.686mm, 343.103mm, 354.711mm, 403.835mm) (InComponentClass('PHA'))
+Rule Violations :0
+
+Processing Rule : Room STM32F030 (Bounding Region = (346.558mm, 406.349mm, 394.894mm, 441.884mm) (InComponentClass('STM32F030'))
+Rule Violations :0
+
+Processing Rule : Room RS485 & Buzzer & FAN 12V (Bounding Region = (337.414mm, 357.099mm, 435.356mm, 465.811mm) (InComponentClass('RS485 & Buzzer & FAN 12V'))
+Rule Violations :0
+
+Processing Rule : Room PHB (Bounding Region = (357.683mm, 343.103mm, 377.038mm, 403.022mm) (InComponentClass('PHB'))
+Rule Violations :0
+
+Processing Rule : Room boxer_main (Bounding Region = (312.623mm, 356.641mm, 452.704mm, 466.776mm) (InComponentClass('boxer_main'))
+Rule Violations :0
+
+Processing Rule : Room Differential I2C (Bounding Region = (336.169mm, 424.129mm, 353.314mm, 465.811mm) (InComponentClass('Differential I2C'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=40mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02
