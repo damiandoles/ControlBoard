@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=sterownik_boxer.OutJob
 Description=
-TargetOutputMedium=PDF
+TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -38,7 +38,7 @@ OutputName1=Schematic Prints
 OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -54,13 +54,13 @@ OutputDocumentPath2=PCB.PcbDoc
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
-OutputEnabled2_OutputMedium2=0
+OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.78|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.25|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=63410000|ViewY=32429995|LookAtX=42944996|LookAtY=27594998|LookAtZ=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.9444882510645E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig=
+Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=90026240|ViewY=65959820|LookAtX=150724960|LookAtY=158586560|LookAtZ=-51998.19921875|UpX=3.95336785530276E-9|UpY=0.760448336601257|UpZ=-0.64939820766449|FOV=45|QuatX=-0.346086353063583|QuatY=-6.84103329540164E-10|QuatZ=-1.85453041812167E-9|QuatW=0.938202679157257|Zoom=1.34627413317142E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=True|ScreenWidth=1212|ScreenHeight=888|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20Dark%20Green%20Configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3TRUE\2CFG3D.SHOWCOMPONENTSTEPMODELS\3TRUE\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\39540010\2CFG3D.BOARDCORECOLOR\313368312\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\32183192\2CFG3D.BOTSOLDERMASKCOLOR\32183192\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\311908806\2CFG3D.WORKSPACEENDCOLOR\37171727\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.860000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.830000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.830000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
 OutputType3=PDF3D
 OutputName3=PDF3D
 OutputCategory3=Documentation
@@ -68,7 +68,7 @@ OutputDocumentPath3=PCB.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
-OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium2=3
 OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
 OutputDefault3=0
@@ -80,10 +80,10 @@ OutputName4=Gerber Files
 OutputCategory4=Fabrication
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=0
+OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
-OutputEnabled4_OutputMedium3=0
+OutputEnabled4_OutputMedium3=2
 OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
@@ -93,10 +93,10 @@ OutputName5=Gerber X2 Files
 OutputCategory5=Fabrication
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
-OutputEnabled5_OutputMedium3=0
+OutputEnabled5_OutputMedium3=3
 OutputEnabled5_OutputMedium4=0
 OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
@@ -106,10 +106,10 @@ OutputName6=NC Drill Files
 OutputCategory6=Fabrication
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
-OutputEnabled6_OutputMedium3=0
+OutputEnabled6_OutputMedium3=4
 OutputEnabled6_OutputMedium4=0
 OutputDefault6=0
 Configuration6_Name1=OutputConfigurationParameter1
@@ -119,7 +119,7 @@ OutputName7=Bill of Materials
 OutputCategory7=Report
 OutputDocumentPath7=PCB.PcbDoc
 OutputVariantName7=
-OutputEnabled7=0
+OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=1
@@ -128,16 +128,14 @@ OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration7_Name1=ColumnNameFormat
 Configuration7_Item1=CaptionAsName
-Configuration7_Name2=Filter
-Configuration7_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration7_Name3=General
-Configuration7_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1254|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
-Configuration7_Name4=GroupOrder
-Configuration7_Item4=Comment=True|Footprint=True
-Configuration7_Name5=SortOrder
-Configuration7_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration7_Name6=VisibleOrder
-Configuration7_Item6=Comment=100|Designator=100|Quantity=100|Value=100
+Configuration7_Name2=General
+Configuration7_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1254|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration7_Name3=GroupOrder
+Configuration7_Item3=Comment=True|Footprint=True
+Configuration7_Name4=SortOrder
+Configuration7_Item4=Designator=Up|Comment=Up
+Configuration7_Name5=VisibleOrder
+Configuration7_Item5=Comment=100|Designator=100|Quantity=100|Value=100
 
 [PublishSettings]
 OutputFilePath2=C:\Users\ddole\Desktop\ControlBoard\.\
@@ -167,7 +165,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Procki projekty\PCB_Workspace\sterownik boxer pcb\sterownik_boxer_b\Project Outputs for sterownik_boxer\
+OutputFilePath3=C:\Procki projekty\PCB_Workspace\sterownik_boxer\sterownik_boxer_v3\ControlBoard\Project Outputs for ControlBoard\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for ControlBoard
 OutputPathMedia3=
@@ -221,7 +219,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\ddole\Desktop\ControlBoard\.\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Procki projekty\PCB_Workspace\sterownik boxer pcb\sterownik_boxer_b\Project Outputs for sterownik_boxer\
+RelativeOutputPath3=C:\Procki projekty\PCB_Workspace\sterownik_boxer\sterownik_boxer_v3\ControlBoard\Project Outputs for ControlBoard\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
