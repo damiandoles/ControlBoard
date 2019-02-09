@@ -320,130 +320,134 @@ Variation2=Designator=R55|UniqueId=\LKPUDSCI\ARWIYRTS|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ControlBoard\Design Rule Check - PCB.html
+DocumentPath=Project Outputs for ControlBoard\BOM\Bill of Materials-PCB.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB-RoundHoles.TXT
+DocumentPath=Project Outputs for ControlBoard\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB-SlotHoles.TXT
+DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB.DRL
+DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB.DRR
+DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.EXTREP
+DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB.EXTREP
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GBL
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GBO
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GBS
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GKO
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GP1
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GP2
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GTL
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GTO
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GTS
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB.LDP
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.REP
+DocumentPath=Project Outputs for ControlBoard\NC Drill\PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB.REP
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.RUL
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB.RUL
+DocumentPath=Project Outputs for ControlBoard\Gerber\PCB.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Copper_Plane_1.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Copper_Plane_2.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Keep-out.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Paste_Top.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
+DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
 DocumentPath=Project Outputs for ControlBoard\GerberX2\PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
